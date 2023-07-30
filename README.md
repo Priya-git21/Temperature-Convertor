@@ -2,7 +2,7 @@
 HTML-5, CSS-3, Vanilla JS ES-6
 
 ### Links
-https://temperature-convertor-blush.vercel.app/
+https://temperature-convertor-chi.vercel.app
 
 ## Table of contents
 - [Overview](#overview)
